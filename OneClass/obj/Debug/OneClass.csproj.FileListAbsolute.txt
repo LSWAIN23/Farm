@@ -1,0 +1,14 @@
+C:\Users\Swain's\Desktop\Projects\Farm\OneClass\bin\Debug\OneClass.exe.config
+C:\Users\Swain's\Desktop\Projects\Farm\OneClass\bin\Debug\OneClass.exe
+C:\Users\Swain's\Desktop\Projects\Farm\OneClass\bin\Debug\OneClass.pdb
+C:\Users\Swain's\Desktop\Projects\Farm\OneClass\obj\Debug\OneClass.csprojAssemblyReference.cache
+C:\Users\Swain's\Desktop\Projects\Farm\OneClass\obj\Debug\OneClass.csproj.CoreCompileInputs.cache
+C:\Users\Swain's\Desktop\Projects\Farm\OneClass\obj\Debug\OneClass.exe
+C:\Users\Swain's\Desktop\Projects\Farm\OneClass\obj\Debug\OneClass.pdb
+C:\Users\Swain's\Desktop\DoneProj\Farm\OneClass\bin\Debug\OneClass.exe.config
+C:\Users\Swain's\Desktop\DoneProj\Farm\OneClass\bin\Debug\OneClass.exe
+C:\Users\Swain's\Desktop\DoneProj\Farm\OneClass\bin\Debug\OneClass.pdb
+C:\Users\Swain's\Desktop\DoneProj\Farm\OneClass\obj\Debug\OneClass.csprojAssemblyReference.cache
+C:\Users\Swain's\Desktop\DoneProj\Farm\OneClass\obj\Debug\OneClass.csproj.CoreCompileInputs.cache
+C:\Users\Swain's\Desktop\DoneProj\Farm\OneClass\obj\Debug\OneClass.exe
+C:\Users\Swain's\Desktop\DoneProj\Farm\OneClass\obj\Debug\OneClass.pdb

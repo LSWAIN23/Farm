@@ -1,0 +1,14 @@
+C:\Users\Swain's\Desktop\Projects\Farm\Four-One\bin\Debug\Four-One.exe.config
+C:\Users\Swain's\Desktop\Projects\Farm\Four-One\bin\Debug\Four-One.exe
+C:\Users\Swain's\Desktop\Projects\Farm\Four-One\bin\Debug\Four-One.pdb
+C:\Users\Swain's\Desktop\Projects\Farm\Four-One\obj\Debug\Four-One.csprojAssemblyReference.cache
+C:\Users\Swain's\Desktop\Projects\Farm\Four-One\obj\Debug\Four-One.csproj.CoreCompileInputs.cache
+C:\Users\Swain's\Desktop\Projects\Farm\Four-One\obj\Debug\Four-One.exe
+C:\Users\Swain's\Desktop\Projects\Farm\Four-One\obj\Debug\Four-One.pdb
+C:\Users\Swain's\Desktop\DoneProj\Farm\Four-One\bin\Debug\Four-One.exe.config
+C:\Users\Swain's\Desktop\DoneProj\Farm\Four-One\bin\Debug\Four-One.exe
+C:\Users\Swain's\Desktop\DoneProj\Farm\Four-One\bin\Debug\Four-One.pdb
+C:\Users\Swain's\Desktop\DoneProj\Farm\Four-One\obj\Debug\Four-One.csprojAssemblyReference.cache
+C:\Users\Swain's\Desktop\DoneProj\Farm\Four-One\obj\Debug\Four-One.csproj.CoreCompileInputs.cache
+C:\Users\Swain's\Desktop\DoneProj\Farm\Four-One\obj\Debug\Four-One.exe
+C:\Users\Swain's\Desktop\DoneProj\Farm\Four-One\obj\Debug\Four-One.pdb

@@ -1,0 +1,14 @@
+C:\Users\Swain's\Desktop\Projects\Farm\Farm\obj\Debug\Farm.csprojAssemblyReference.cache
+C:\Users\Swain's\Desktop\Projects\Farm\Farm\obj\Debug\Farm.csproj.CoreCompileInputs.cache
+C:\Users\Swain's\Desktop\Projects\Farm\Farm\bin\Debug\Farm.exe.config
+C:\Users\Swain's\Desktop\Projects\Farm\Farm\bin\Debug\Farm.exe
+C:\Users\Swain's\Desktop\Projects\Farm\Farm\bin\Debug\Farm.pdb
+C:\Users\Swain's\Desktop\Projects\Farm\Farm\obj\Debug\Farm.exe
+C:\Users\Swain's\Desktop\Projects\Farm\Farm\obj\Debug\Farm.pdb
+C:\Users\Swain's\Desktop\DoneProj\Farm\Farm\bin\Debug\Farm.exe.config
+C:\Users\Swain's\Desktop\DoneProj\Farm\Farm\bin\Debug\Farm.exe
+C:\Users\Swain's\Desktop\DoneProj\Farm\Farm\bin\Debug\Farm.pdb
+C:\Users\Swain's\Desktop\DoneProj\Farm\Farm\obj\Debug\Farm.csprojAssemblyReference.cache
+C:\Users\Swain's\Desktop\DoneProj\Farm\Farm\obj\Debug\Farm.csproj.CoreCompileInputs.cache
+C:\Users\Swain's\Desktop\DoneProj\Farm\Farm\obj\Debug\Farm.exe
+C:\Users\Swain's\Desktop\DoneProj\Farm\Farm\obj\Debug\Farm.pdb

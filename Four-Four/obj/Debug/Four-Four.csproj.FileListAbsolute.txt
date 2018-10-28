@@ -1,0 +1,14 @@
+C:\Users\Swain's\Desktop\Projects\Farm\Four-Four\bin\Debug\Four-Four.exe.config
+C:\Users\Swain's\Desktop\Projects\Farm\Four-Four\bin\Debug\Four-Four.exe
+C:\Users\Swain's\Desktop\Projects\Farm\Four-Four\bin\Debug\Four-Four.pdb
+C:\Users\Swain's\Desktop\Projects\Farm\Four-Four\obj\Debug\Four-Four.csprojAssemblyReference.cache
+C:\Users\Swain's\Desktop\Projects\Farm\Four-Four\obj\Debug\Four-Four.csproj.CoreCompileInputs.cache
+C:\Users\Swain's\Desktop\Projects\Farm\Four-Four\obj\Debug\Four-Four.exe
+C:\Users\Swain's\Desktop\Projects\Farm\Four-Four\obj\Debug\Four-Four.pdb
+C:\Users\Swain's\Desktop\DoneProj\Farm\Four-Four\bin\Debug\Four-Four.exe.config
+C:\Users\Swain's\Desktop\DoneProj\Farm\Four-Four\bin\Debug\Four-Four.exe
+C:\Users\Swain's\Desktop\DoneProj\Farm\Four-Four\bin\Debug\Four-Four.pdb
+C:\Users\Swain's\Desktop\DoneProj\Farm\Four-Four\obj\Debug\Four-Four.csprojAssemblyReference.cache
+C:\Users\Swain's\Desktop\DoneProj\Farm\Four-Four\obj\Debug\Four-Four.csproj.CoreCompileInputs.cache
+C:\Users\Swain's\Desktop\DoneProj\Farm\Four-Four\obj\Debug\Four-Four.exe
+C:\Users\Swain's\Desktop\DoneProj\Farm\Four-Four\obj\Debug\Four-Four.pdb
